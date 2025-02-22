@@ -1,0 +1,7 @@
+clinet/node_modules/
+server/node_modules/
+clinet/dist/
+server/dist/
+client/.env/
+server/.env/
+slient/.next/
